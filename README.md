@@ -8,7 +8,7 @@ Artoo is an Enterprise Saas provider for Banks and MFIs. This means a few things
 We need some flexibility in terms of setting up our infrastructure. We need multiple environments and access restrictions.
 Multiple environment layers we have defined are - Dev, QA, UAT, Staging, Production. We have 25 employees at Artoo, 12 of whom are engineers. Not all employees and engineers can be provided access to all environments.
 
-How would you go about writing scripts (Python, Ruby, Perl, etc..) to setup these environments.
+How would you go about writing scripts (Python, Ruby, Perl, Bash, Zsh, etc..) to setup these environments.
 
 (NOTE: In case scripts are unworkable consider using the simplest Configuration Management tools around that you know)
 
