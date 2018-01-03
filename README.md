@@ -10,8 +10,6 @@ Multiple environment layers we have defined are - Dev, QA, UAT, Staging, Product
 
 How would you go about writing scripts (Python, Ruby, Perl, Bash, Zsh, etc..) to setup these environments.
 
-(NOTE: In case scripts are unworkable consider using the simplest Configuration Management tools around that you know)
-
 Some sample use cases are,
 1. Kaushik is the engineering manager he needs access to Dev, QA, UAT. But not the later ones.
 2. Geloth is a Production support engineer and he only needs access to Production.
